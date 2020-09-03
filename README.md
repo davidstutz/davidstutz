@@ -9,5 +9,5 @@ Support my open source projects by donating: [![PayPal](https://img.shields.io/b
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidstutz&count_private=true&show_icons=false&theme=vue" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=vue&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidstutz&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidstutz&theme=default&show_icons=true&layout=compact" />
